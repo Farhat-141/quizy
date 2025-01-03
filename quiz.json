@@ -1,0 +1,32 @@
+{
+    "quizes": [
+        {
+            "question1": "What is the capital of France?",
+            "paris": true,
+            "london": false,
+            "berlin": false,
+            "madrid": false
+        }
+        ,{
+            "question2": "what is the biggest planet in our solar system?",
+            "earth": false,
+            "mars": false,
+            "jupiter": true,
+            "saturn": false 
+        }
+        ,{
+            "question3": "What is the largest mammal in the world?",
+            "elephant": false,
+            "blue whale": true,
+            "giraffe": false,
+            "hippopotamus": false
+        },
+        {
+            "question4": "What is the largest ocean in the world?",
+            "atlantic": false,
+            "indian": false,
+            "pacific": true,
+            "arctic": false
+        }
+    ]
+}
