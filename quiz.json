@@ -1,32 +1,35 @@
-{
-    "quizes": [
+[
         {
-            "question1": "What is the capital of France?",
-            "paris": true,
-            "london": false,
-            "berlin": false,
-            "madrid": false
+            "question": "What is the capital of France?",
+            "option": {
+                "paris" : true,
+                "london" : false,
+                "berlin" : false,
+                "madrid" : false
+            }
         }
         ,{
-            "question2": "what is the biggest planet in our solar system?",
+            "question": "what is the biggest planet in our solar system?",
+            "option": {   
             "earth": false,
             "mars": false,
             "jupiter": true,
-            "saturn": false 
+            "saturn": false} 
         }
         ,{
-            "question3": "What is the largest mammal in the world?",
+            "question": "What is the largest mammal in the world?",
+            "option": {
             "elephant": false,
             "blue whale": true,
             "giraffe": false,
-            "hippopotamus": false
+            "hippopotamus": false}
         },
         {
-            "question4": "What is the largest ocean in the world?",
+            "question": "What is the largest ocean in the world?",
+            "option":{
             "atlantic": false,
             "indian": false,
             "pacific": true,
-            "arctic": false
+            "arctic": false}
         }
-    ]
-}
+]
